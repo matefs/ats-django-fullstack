@@ -19,4 +19,4 @@ venv/
 *.swp
 .idea/
 .vscode/
-
+.venv/
