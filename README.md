@@ -2,6 +2,22 @@
 # Instruções para Rodar o Backend (Django)
 ![image](https://github.com/user-attachments/assets/77d9c5ca-cb8f-45cc-b4a5-a0f5768fbd49)
 
+- Backend 
+  - [x] CRUD de usuários 
+  - [x] CRUD de empresas
+  - [x] CRUD de candidatos
+  - [x] CRUD de experiências do candidato 
+  - [x] CRUD de vagas
+
+- Frontend 
+  - [x] Tela de login
+  - [x] Tela de cadastro
+  - [x] Listagem e edição de vagas
+  - [ ] Cadastro e edição de empresas
+  - [ ] Cadastro e edição de candidatos
+  - [ ] Dashboard Chart.js de candidatos e vagas
+  - [ ] Dashboard relação entre candidatos e suas pontuações. 
+
 Este projeto utiliza Django como backend. Siga as instruções abaixo para configurar e executar o servidor.
 
 ## Pré-requisitos
