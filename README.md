@@ -16,7 +16,14 @@
   - [ ] Cadastro e edição de empresas
   - [ ] Cadastro e edição de candidatos
   - [ ] Dashboard Chart.js de candidatos e vagas
-  - [ ] Dashboard relação entre candidatos e suas pontuações. 
+  - [ ] Dashboard relação entre candidatos e suas pontuações.
+ 
+## Telas Acessíveis
+
+- [Login de Usuário](http://localhost:3000/usuario/login)
+- [Cadastro de Usuário](http://localhost:3000/usuario/register)
+- [Listagem de Vagas](http://localhost:3000/empresa/vagas)
+
 
 Este projeto utiliza Django como backend. Siga as instruções abaixo para configurar e executar o servidor.
 
