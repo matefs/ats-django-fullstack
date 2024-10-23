@@ -1,5 +1,6 @@
 # Aplicação Fullstack ATS Django
 # Instruções para Rodar o Backend (Django)
+![image](https://github.com/user-attachments/assets/77d9c5ca-cb8f-45cc-b4a5-a0f5768fbd49)
 
 Este projeto utiliza Django como backend. Siga as instruções abaixo para configurar e executar o servidor.
 
